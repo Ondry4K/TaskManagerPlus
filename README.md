@@ -20,7 +20,7 @@ To start using TaskManager+, follow these steps:
 
 1. Clone or download the TaskManager+ repository from [GitHub](https://github.com/Zhieeadie/TaskManagerPlus).
 
-2. Install the necessary dependencies specified in the project's README.
+2. Install the necessary dependencies specified in the project's requirements.txt.
 
 3. Run the TaskManager+ Python script on your desired platform.
 
