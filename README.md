@@ -28,7 +28,7 @@ To start using TaskManager+, follow these steps:
 
 ## Contributing
 
-TaskManager+ welcomes contributions from developers of all skill levels. If you have ideas for new features, bug fixes, or performance improvements, feel free to submit a pull request on the [GitHub repository](https://github.com/your-repo). Your contributions will help make TaskManager+ even better for everyone.
+TaskManager+ welcomes contributions from developers of all skill levels. If you have ideas for new features, bug fixes, or performance improvements, feel free to submit a pull request on the [GitHub repository](https://github.com/Zhieeadie/TaskManagerPlus). Your contributions will help make TaskManager+ even better for everyone.
 
 ## License
 
